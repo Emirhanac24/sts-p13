@@ -1,0 +1,87 @@
+{
+    "bot": {
+        "owner": "822770318740553729",
+        "prefix": ".",
+        "BotStatus": "Dark Süpervizör",
+        "BotFooter": "Steelt 💎 Dark",
+        "cooldown": 10
+    },
+    "penals": {
+        "ban": {
+            "staff": "937723550230528000",
+            "log": "937724780226965534",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "937723559466377236",
+            "roles": "931261457197318276",
+            "log": "937724885021634671",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "939939564674498580",
+            "roles": "962979320589086780",
+            "log": "952140647735902258",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "952138785926295632",
+            "log": "952140678958313472"
+        },
+        "transport": {
+            "staff": "939945442920239175"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "927979523721551974",
+        "rollog": "952141198309617714",
+        "seslog": "952141364303396874"
+    },
+    "roles": {
+        "vip": "937466086817951796",
+        "sponsor": "SPONSOR ROL ID",
+        "müzisyen": "MÜZİSYEN ROL ID",
+        "team": "927981246674509824"
+    },
+    "channels": {
+        "chat": "932365903104999574",
+        "voicechannel": "940244781668397076",
+        "welcomechannel": "923958080096571482",
+        "rules": "931526565047717908"
+    },
+    "registration": {
+        "unregistered": "913378342617624646",
+        "man": ["947460280428937256"],
+        "woman": ["947459858318381056"],
+        "yetkilialim": "939901991059075072",
+        "staff": "913377933924651028",
+        "enaltyetkilirolü": "923963552103014410",
+        "GuilDTag": "✬",
+        "TagSymbol": "✬",
+        "autonickname": "✬ İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "931261457197318276",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "947460280428937256",
+        "onewoman": "947459858318381056",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "797786589463969803",
+        "GuilDName": "Steelt",
+        "GuildOwnerRole": ["936784026658832454"]
+    },
+    "emojis": {
+        "tada": "<a:yildizz1:931259784034910268>",
+        "yes": "<a:Onay:920255805750673408>",
+        "no": "<:Reddetdildi:920046394553806918>"
+
+    }
+} 
